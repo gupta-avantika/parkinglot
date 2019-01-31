@@ -1,0 +1,14 @@
+com\vokal\mappings\RegistrationToVehicleMap.class
+com\vokal\model\Slot.class
+com\vokal\mappings\SizeToVehicleMapping.class
+com\vokal\mappings\colorToVehicleMap.class
+com\vokal\service\ParkingService.class
+com\vokal\parkinglot\ParkingLot.class
+com\vokal\controller\ParkingController.class
+com\vokal\parkinglot\ParkingLot$1.class
+com\vokal\model\Ticket.class
+com\vokal\model\ActionType.class
+com\vokal\model\Vehicle.class
+com\vokal\mappings\DateToVehicleMap.class
+com\vokal\model\SizeType.class
+com\vokal\mappings\RegistrationToTicketMapping.class
